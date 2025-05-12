@@ -127,7 +127,8 @@ int main() {
 
 ## OUTPUT
 $ ./sem.o 
-![Uploading Screenshot 2025-05-12 134008.png…]()
+![Screenshot 2025-05-12 134008](https://github.com/user-attachments/assets/3cd4a610-9c47-4b8a-bf80-840700a1d973)
+
 
 
 $ ipcs
